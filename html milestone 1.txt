@@ -1,0 +1,16 @@
+<html>
+<head>
+<style> 
+p {
+   background-image: url(https://i.pinimg.com/736x/8e/7f/39/8e7f3957f9342a406fcbdec7ac9e3bc7--rainbow-background-wallpapers-rainbow-wallpaper-iphone-pastels.jpg);
+   }
+</style>
+</head>
+<body>
+<h1>Rainbow </h1>
+<p><i>
+A rainbow is a multicolored arc made by light striking water droplets. The most familiar type rainbow is produced when sunlight strikes raindrops in front of a viewer at a precise angle (42 degrees). Rainbows can also be viewed around fog, sea spray, or waterfalls
+Rainbows Are Optical Illusions. Similar to a mirage, a rainbow is formed when light rays bend, creating an effect that is visible, but not able to be touched or approached. For rainbows, light is reflected and refracted through water droplets, separating white light into the seven colours of the spectrum.
+</i><p/>
+</body>
+</html>
